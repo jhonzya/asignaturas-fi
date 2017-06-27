@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Si existe se sobreescribe, sino se crea
-ARCHIVO_DESTINO = "JUNIO_2017"
+ARCHIVO_DESTINO = "ARCHIVO"
 
 # Máximo de intentos por petición
 MAXIMO_INTENTOS = 3
